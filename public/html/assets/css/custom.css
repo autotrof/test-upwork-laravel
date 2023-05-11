@@ -1,0 +1,41 @@
+.investigator_profile_state{
+  width:125px;
+}
+.investigator_profile_vechile_year{
+  width:80px;
+}
+.investigator_profile_vechile_make{
+  width:80px;
+}
+.investigator_profile_vechile_model{
+  width:80px;
+}
+.investigator_profile_vechile_picture{
+  width:260px;
+}
+.investigator_profile_proof_of_insurance{
+  width:260px;
+}
+.investigator_profile_document_dl{
+  width:260px;
+}
+.investigator_profile_document_id{
+  width:260px;
+}
+.investigator_profile_document_ssn{
+  width:260px;
+}
+.investigator_profile_document_birth_certificate{
+  width:260px;
+}
+.investigator_profile_document_form_19{
+  width:260px;
+}
+.investigator_profile_picture{
+  width:260px;
+}
+
+.dashboard-topbar-img{
+  height: 70px;
+  width: 180px;
+}
